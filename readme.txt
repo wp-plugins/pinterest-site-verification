@@ -5,6 +5,8 @@ Tags: plugin, Pinterest site verification,Pinterest meta tag,Pinterest, admin, w
 Requires at least: 2.5.1
 Tested up to: 3.5.1
 Stable tag: Pinterest site verification
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Simply insert your Pinterest meta tag verification code using this helpful plugin.
 
