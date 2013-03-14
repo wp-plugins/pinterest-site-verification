@@ -12,7 +12,7 @@ Simply insert your Pinterest meta tag verification code using this helpful plugi
 
 Simply insert your Pinterest meta tag verification code using this helpful plugin.
 
-Once your blog is verified, you can get your search statistics, Malware warning, Index status, HTML suggestion and many more Pinterest webmaster features.
+Once your blog is verified, you will get Pinterest web analytics feature enabled for you which will show you how people are pinning your pictures.
 
 If you are using caching plugins like WP-Cache or WP Super Cache, you may need to temporarily clear or disable your cache for this plugin to work.
 
